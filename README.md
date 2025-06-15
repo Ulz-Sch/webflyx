@@ -1,7 +1,5 @@
 # WebFlyX
 
-WebFlyX is a web project maintained by [Felipe Schulz](https://www.boot.dev/u/felipe_schulz). This repository contains the source code, documentation, and resources necessary for the development and deployment of the WebFlyX application.
-
 ## Features
 
 - Modern web architecture
@@ -89,4 +87,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Maintained by [Felipe Schulz](https://www.boot.dev/u/felipe_schulz)
+Check my profile at boot.dev [Felipe Schulz](https://www.boot.dev/u/felipe_schulz)
